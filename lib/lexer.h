@@ -13,8 +13,8 @@ enum Token {
     tok_inc = -4,
     tok_dec = -5,
 
-	tok_while_start = -6,
-	tok_while_end = -7,
+    tok_while_start = -6,
+    tok_while_end = -7,
 
     tok_put = -8,
     tok_get = -9
